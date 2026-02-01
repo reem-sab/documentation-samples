@@ -54,4 +54,16 @@ To pay for transaction gas on the network, you need testnet SUI tokens.
 | **Extension not loading** | Clear your browser cache or ensure you are using the latest version of Chrome or Brave. |
 
 ---
+
+### Skills Demonstrated
+
+| Skill Category | Implementation in this Project | Strategic Value |
+| :--- | :--- | :--- |
+| **Data-Driven Writing** | Sourced common friction points from **Sui Developer Forums** and **GitHub Discussions**. | Demonstrates a Senior-level ability to prioritize documentation based on actual user pain points. |
+| **Information Architecture** | Engineered a logical flow from environment setup to task verification using nested headers. | Reduces user "cognitive load" and prevents drop-off during the critical onboarding phase. |
+| **AWS Style Compliance** | Applied active voice, imperative mood, and precision-focused terminology. | Ensures an authoritative, professional tone that meets the industry standard for high-scale tech docs. |
+| **Docs-as-Code** | Managed the full documentation lifecycle using **Markdown** and **GitHub** version control. | Shows proficiency with engineering-centric tools and seamless integration into Mysten Labs' workflows. |
+| **Web3 Technical Literacy** | Clarified **Devnet vs. Mainnet** configurations and the mechanics of **SUI Gas/Faucets**. | Proves the ability to translate complex blockchain architecture into accessible end-user instructions. |
+| **UX-Centric Design** | Integrated visual callouts (`[!WARNING]`, `[!TIP]`) and a troubleshooting matrix. | Anticipates and intercepts user errors, directly reducing the volume of community support tickets. |
+
 *Created as a documentation sample for Mysten Labs. This guide follows the AWS Documentation Style Guide for clarity and scannability.*
