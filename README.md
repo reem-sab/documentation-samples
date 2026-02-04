@@ -15,7 +15,7 @@ Based on common developer friction points identified in the [Sui Developer Forum
 ---
 
 ## Overview
-To build on Sui, developers must interface with the network via a wallet. This guide ensures your environment is correctly configured for the **Sui Devnet**, allowing you to test smart contracts without incurring real-world costs.
+To build on Sui, developers must interface with the network via a wallet. This guide describes how you can ensure that your environment is correctly configured for the **Sui Devnet**, allowing you to test smart contracts without incurring real-world costs.
 
 ## Step 1: Install and Secure the Sui Wallet
 1. Navigate to the official [Sui Wallet Chrome Extension](https://chrome.google.com/webstore/detail/sui-wallet/opcgbehmhnbkgondhngeadbhlonocpgh).
